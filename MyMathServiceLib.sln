@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMathServiceLib", "MyMathServiceLib\MyMathServiceLib.csproj", "{CE611B3B-80A6-474C-A0D5-5BCA6A676361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMathServiceHost", "MyMathServiceHost\MyMathServiceHost.csproj", "{F522AE39-486A-4260-9F50-59F310F00FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMathServiceClient", "MyMathServiceClient\MyMathServiceClient.csproj", "{3E25A531-18E6-4369-811B-87C16C8A99AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE611B3B-80A6-474C-A0D5-5BCA6A676361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE611B3B-80A6-474C-A0D5-5BCA6A676361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE611B3B-80A6-474C-A0D5-5BCA6A676361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE611B3B-80A6-474C-A0D5-5BCA6A676361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F522AE39-486A-4260-9F50-59F310F00FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F522AE39-486A-4260-9F50-59F310F00FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F522AE39-486A-4260-9F50-59F310F00FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F522AE39-486A-4260-9F50-59F310F00FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E25A531-18E6-4369-811B-87C16C8A99AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E25A531-18E6-4369-811B-87C16C8A99AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E25A531-18E6-4369-811B-87C16C8A99AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E25A531-18E6-4369-811B-87C16C8A99AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31686CFA-204C-4C64-B238-988A899D8019}
+	EndGlobalSection
+EndGlobal
